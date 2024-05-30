@@ -2,6 +2,9 @@
 
 These are the files accompanying the talk "Build a RAG in TS" held by Mattias Hansson for Artificial Intelligence Warsaw in May 2024
 
+Video here: https://youtu.be/zBhtqwnuaiU
+
+
 1) Go to chatbot tutorial
 
 https://ts.llamaindex.ai/getting_started/starter_tutorial/chatbot
